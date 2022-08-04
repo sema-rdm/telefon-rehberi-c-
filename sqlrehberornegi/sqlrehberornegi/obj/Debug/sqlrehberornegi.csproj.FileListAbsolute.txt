@@ -1,0 +1,10 @@
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\bin\Debug\sqlrehberornegi.exe.config
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\bin\Debug\sqlrehberornegi.exe
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\bin\Debug\sqlrehberornegi.pdb
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\obj\Debug\sqlrehberornegi.Form1.resources
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\obj\Debug\sqlrehberornegi.Properties.Resources.resources
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\obj\Debug\sqlrehberornegi.csproj.GenerateResource.cache
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\obj\Debug\sqlrehberornegi.csproj.CoreCompileInputs.cache
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\obj\Debug\sqlrehberornegi.exe
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\obj\Debug\sqlrehberornegi.pdb
+C:\Users\seman\source\repos\sqlrehberornegi\sqlrehberornegi\obj\Debug\sqlrehberornegi.csproj.AssemblyReference.cache
